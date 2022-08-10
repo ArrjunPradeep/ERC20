@@ -5,7 +5,7 @@
 **Step 1:** Download the repository using the command:
 
 ```
- git clone -b wallet_nft "https://github.com/Arjun-Pradeep/safeCryptoWallet.git"
+ git clone -b wallet_nft "https://github.com/Arjun-Pradeep/ERC20.git"
 ```
 
 **Step 2:** Change the current working directory to "safeCryptoWallet" :
