@@ -8,10 +8,10 @@
  git clone -b wallet_nft "https://github.com/Arjun-Pradeep/ERC20.git"
 ```
 
-**Step 2:** Change the current working directory to "safeCryptoWallet" :
+**Step 2:** Change the current working directory to "ERC20" :
 
 ```
- cd safeCryptoWallet
+ cd ERC20
 ```
 
 **Step 3:** Install the dependecies :
