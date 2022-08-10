@@ -1,4 +1,4 @@
-# Binance Crypto Wallet + NFT
+# ERC20
 
 ## Setting Up :
 
